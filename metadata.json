@@ -1,0 +1,6 @@
+{
+  "name": "Rohan Shah - Portfolio",
+  "description": "Dark portfolio landing page for Rohan Shah featuring interactive sections, galaxy background, and GSAP scroll animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
